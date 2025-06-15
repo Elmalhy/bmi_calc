@@ -1,0 +1,2 @@
+D:/bmi_caculator/android/app/.cxx/Debug/54c5a5k1/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/bmi_caculator/android/app/.cxx/Debug/54c5a5k1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
